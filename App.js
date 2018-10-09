@@ -44,4 +44,9 @@ const styles = StyleSheet.create({
     marginBottom: 5,
   },
 });
+<<<<<<< HEAD
 edit from dev
+=======
+
+edit from master
+>>>>>>> 42b9406835106450a94088d49cc7799997131399
