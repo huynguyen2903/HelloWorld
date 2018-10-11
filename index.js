@@ -12,3 +12,4 @@ import BasicFlatList from './components/BasicFlatList';
 
 AppRegistry.registerComponent('tutorialProject', () => BasicFlatList);
 edit from master
+edit from master 2
