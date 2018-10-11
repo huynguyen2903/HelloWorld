@@ -11,3 +11,4 @@ import { AppRegistry } from 'react-native';
 import BasicFlatList from './components/BasicFlatList';
 
 AppRegistry.registerComponent('tutorialProject', () => BasicFlatList);
+edit from master
